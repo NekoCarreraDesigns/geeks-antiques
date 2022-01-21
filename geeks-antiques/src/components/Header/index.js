@@ -5,15 +5,15 @@ function Header() {
   return (
     <div>
       <nav className='page-navbar'>
-        <a classname='page-navbar-link' href='/coins'>
+        <a className='page-navbar-link' href='/coins'>
           Numisma
         </a>
         {"   "}
-        <a classname='page-navbar-link' href='/stamps'>
+        <a className='page-navbar-link' href='/stamps'>
           Philately
         </a>
         {"   "}
-        <a classname='page-navbar-link' href='/antiques'>
+        <a className='page-navbar-link' href='/antiques'>
           Antiques
         </a>
         {"   "}
