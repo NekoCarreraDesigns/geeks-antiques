@@ -6,3 +6,19 @@
   text-shadow: 2px 2px rgb(235, 157, 50);
   letter-spacing: 1px;
 }
+
+.abbreviation-header {
+  color: rgb(235, 157, 50);
+  text-decoration: underline;
+}
+
+.abbreviation-list {
+  color: rgb(235, 157, 50);
+  font-size: 32px;
+}
+
+.philately-paragraph {
+  font-size: 30px;
+  font-weight: 200;
+  color: rgb(235, 157, 50);
+}
