@@ -8,11 +8,11 @@ function PageBody() {
         <p className='title-page-paragraph'>
           {" "}
           Hello, and welcome to The Antique Geek, a page dedicated to the arts
-          of Philately, Numisma, and showcasing antiques from around the world.
-          Some of the antiques here are passed down to me, others are ones I
-          have picked up on my own. The stamps that are featured on this page
-          were my grandfather's. The coins were my dad's and some of mine that
-          I've found over the years.
+          of Philately(stamps), Numisma(coins), and showcasing antiques from
+          around the world. Some of the antiques here are passed down to me,
+          others are ones I have picked up on my own. The stamps that are
+          featured on this page were my grandfather's. The coins were my dad's
+          and some of mine that I've found over the years.
         </p>
       </section>
       <section>
