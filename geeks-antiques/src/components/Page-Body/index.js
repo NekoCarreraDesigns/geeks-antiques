@@ -32,7 +32,7 @@ function PageBody() {
           interest don't hesitate to reach out. While this may look like an
           e-commerce site, you can't purchase anything from this page, you will
           be given my contact info, and using one of the means I've given you we
-          will proceed from there.
+          will proceed from there. 
         </p>
       </section>
     </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function Philatley() {
+function Philately() {
   return (
     <div>
       <header className='philately-header'>Philately</header>
@@ -47,6 +47,7 @@ function Philatley() {
             coins are not minted they are printed, this is standard for some
             reason.
           </li>
+          <br />
           <li>
             Hinging is an old philatelic practice that involves putting a
             polyurethane piece on the back of the stamp, this was for display
@@ -57,16 +58,18 @@ function Philatley() {
             hinged will have an <strong>LH</strong>, ones that are not hinged
             will have <strong>NH</strong>
           </li>
+          <br />
           <li>
             Stamps are also graded on the centering of the design, a stamp with
             four even margins is said to be of superb <strong>SU</strong> or{" "}
             <strong>Gem</strong> quality, three out four even margins would be{" "}
             <strong>XF</strong> or extra fine quality. Two out four even margins
             is known as very fine <strong>VF</strong>, below that is fine
-            <strong>F</strong>. stamps can slide between each of the levels upon
-            further inspection can be <strong>VF/F</strong> this would mean the
-            stamp has very fine to fine centering
+            <strong> F</strong>. stamps can slide between each of the levels
+            upon further inspection can be <strong>VF/F</strong> this would mean
+            the stamp has very fine to fine centering
           </li>
+          <br />
           <li>
             Variations such as specific cancels, <strong>BC</strong> a bullseye
             cancel which is struck in the middle of the stamp,{" "}
@@ -76,6 +79,7 @@ function Philatley() {
             <strong>LC</strong> is a light cancel which is barely noticeable to
             the naked eye but can be seen with a magnifying glass
           </li>
+          <br />
           <li>
             Other variations are <strong>S</strong> which stands for selvage
             which is the outer portion of the stamp sheet that is usually blank
@@ -84,11 +88,13 @@ function Philatley() {
             are multiple stamps in a block, 2 being the minimum to a maximum of
             12
           </li>
+          <br />
           <li>
             some stamps will still have the original adhesive on them, this is
             marked as <strong>OG</strong> which in Philatelic terms means
             original gum
           </li>
+          <br />
           <li>
             a few examples of the abbreviations written out so you know what to
             expect: 1909 George Washington 2 cent<strong> UNHVF $5.00</strong>{" "}
@@ -96,6 +102,7 @@ function Philatley() {
             stamp(George Washington) and it is used, never hinged, and very fine
             centering, its value is five dollars
           </li>
+          <br />
           <li>
             1846 Russian Coat of Arms(red) 2k <strong>MNHOGXF/SU</strong>{" "}
             $1,000. in this example we have a Russian stamp that has the
@@ -103,10 +110,14 @@ function Philatley() {
             unused, never hinged, extra fine to superb quality with the original
             gum
           </li>
+          <br />
         </ul>
       </div>
+      <a className='stamp-view-link' href='/stamps-view'>
+        View Stamps
+      </a>
     </div>
   );
 }
 
-export default Philatley;
+export default Philately;
