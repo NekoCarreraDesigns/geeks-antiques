@@ -5,6 +5,7 @@ import Philately from "./components/Philately";
 import PageBody from "./components/Page-Body";
 import StampsView from "./components/Stamps-View";
 import Numisma from "./components/Numisma";
+import CoinsView from "./components/Coins-View";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path='/stamps' element={<Philately />}></Route>
           <Route path='stamps-view' element={<StampsView />}></Route>
           <Route path='/coins' element={<Numisma />}></Route>
+          <Route path='/coins-view' element={<CoinsView />}></Route>
         </Routes>
       </div>
     </BrowserRouter>
