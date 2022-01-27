@@ -112,6 +112,9 @@ function Numisma() {
           </li>
         </ul>
       </div>
+      <a href='coins-view' className='coins-view-link'>
+        View Coins
+      </a>
     </div>
   );
 }
