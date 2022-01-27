@@ -79,6 +79,7 @@ function Numisma() {
             clear Florida. Other type variations exist among other coins. These
             variations happen during the minting process
           </li>
+          <br />
           <li>
             Certain errors exist in the numismatic world, these coins carry a
             high value, because of the errors. some examples of this are the
@@ -90,6 +91,7 @@ function Numisma() {
             penny struck on a dime, or a Denver mint struck over a San
             Francisco.
           </li>
+          <br />
           <li>
             coins will also have mint marks as well as engravers initials on
             them. these are <strong>D</strong> for the Denver mint,{" "}
