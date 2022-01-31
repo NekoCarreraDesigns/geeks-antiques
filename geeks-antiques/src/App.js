@@ -8,6 +8,7 @@ import Numisma from "./components/Numisma";
 import CoinsView from "./components/Coins-View";
 import Antiques from "./components/Antiques";
 import AntiquesView from "./components/Antiques-View";
+import PurchaseMessage from "./components/Purchase-Message";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path='/coins-view' element={<CoinsView />}></Route>
           <Route path='/antiques' element={<Antiques />}></Route>
           <Route path='/antiques-view' element={<AntiquesView />}></Route>
+          <Route path='/purchase-message' element={<PurchaseMessage />}></Route>
         </Routes>
       </div>
     </BrowserRouter>
