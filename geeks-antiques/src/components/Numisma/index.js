@@ -37,16 +37,21 @@ function Numisma() {
         </p>
         <ul className='numisma-list'>
           <li>
-            The first way a coin is graded is by condition the scale starts{" "}
-            <strong>G-8</strong> or good, coins with this grade are typically
-            worn down, with the design barely visible. the next grade is{" "}
+            The first way a coin is graded is by condition the scale starts with{" "}
+            <strong>AG-3</strong> which stands for about good, these coins have
+            enough detail to be identified. <strong>G-4</strong> or good, coins
+            with this grade are typically worn down, with the design barely
+            visible. After good we have <strong>VG-8</strong> which is very
+            good, the coins are worn but with visible details. The next grade is{" "}
+            <strong>F-12</strong> or fine grade coins have more details visible
+            than a coin with a very good grading, the next grade is{" "}
             <strong>VF-20</strong> standing for very fine, the coins are
             slightly less worn with some of the design visible. the next level
             is <strong>EF-40</strong> standing for extra fine these coins have
-            minimal wear to the designs and letters. The level after this on is{" "}
-            <strong>AU-50</strong> which stands for almost uncirculated, these
+            minimal wear to the designs and letters. The level after this one is{" "}
+            <strong>AU-50</strong> which stands for about uncirculated, these
             coins are very close to mint state. The next level is{" "}
-            <strong>MS</strong> which stands for mint state, these coins are
+            <strong>MS-60</strong> which stands for mint state, these coins are
             incredibly vivid with little marking, and clear designs, and
             letters. the final conditions coins can be in is <strong>PF</strong>{" "}
             or Proof state these coins are straight up unmarked, fresh off the
@@ -64,24 +69,24 @@ function Numisma() {
           </li>
           <br />
           <li>
-            Proof grade coins have two grade have the same numerical values of
-            mint state <strong>PF-1</strong> to <strong>PF-70</strong> coins
-            that carry these grades are barely touched or marked mean they were
-            the last ones off the conveyor at the mint. sometimes sold as sets
-            in gold, and silver, proof coins are very collectible, most
-            commemorative coins are sold as proofs, along with the coins that
-            are minted regularly every year
+            Proof grade coins have the same numerical values of mint state{" "}
+            <strong>PF-1</strong> to <strong>PF-70</strong> coins that carry
+            these grades are barely touched or marked meaning they were the last
+            ones off the conveyor at the mint. sometimes sold as sets in gold,
+            and silver, proof coins are very collectible, most commemorative
+            coins are sold as proofs, along with the coins that are minted
+            regularly every year, which the mints sell as proof sets.
           </li>
           <br />
           <li>
             coins are also graded by typal differences and mint errors. certain
-            examples of this are, Eisenhower dollar coins have three types each
-            type varies with the reverse of the coin, the view of earth from the
-            moon has varying levels of clarity. type 1 has a clear crescent
-            shaped Cuba. type 2, Cuba is a blob beneath Florida which is
-            triangular shaped. Type 3 has a clear crescent shaped Cuba, and a
+            examples of this are, Eisenhower dollar coins. There are three types
+            each type varies with the reverse of the coin, the view of earth
+            from the moon has varying levels of clarity. type 1 has a clear
+            crescent shaped Cuba. type 2, Cuba is a blob beneath Florida which
+            is triangular shaped. Type 3 has a clear crescent shaped Cuba, and a
             clear Florida. Other type variations exist among other coins. These
-            variations happen during the minting process
+            variations happen during the minting process.
           </li>
           <br />
           <li>
@@ -100,12 +105,14 @@ function Numisma() {
             coins will also have mint marks as well as engravers initials on
             them. these are <strong>D</strong> for the Denver mint,{" "}
             <strong>P</strong> for the Philadelphia mint. <strong>S</strong> for
-            the San Francisco mint. Sometimes coins wont have a mint mark, these
-            can be errors, or more commonly San Francisco regular production
-            coins. All proof coins are from the San Francisco mint will have an{" "}
-            <strong>S</strong> on them here are some examples of how a coin will
-            be listed starting with the year, type of coin it is, typal
-            variance, or error, grade, and value.
+            the San Francisco mint. <strong>CC</strong> for the Carson City
+            mint,, and <strong>O</strong> for the New Orleans mint. Sometimes
+            coins will not have a mint mark, these can be errors, or more
+            commonly San Francisco regular production coins. All proof coins are
+            from the San Francisco mint will have an <strong>S</strong> on them
+            here are some examples of how a coin will be listed starting with
+            the year, type of coin it is, typal variance, or error, grade, and
+            value.
             <br />
             1. 1913-D Nickel, raised mound,<strong>VF-20</strong> $200 <br />
             2. 1970-S Eisenhower Dollar, type 1, <strong>PF-70</strong> $700
