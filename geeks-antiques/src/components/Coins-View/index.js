@@ -20,7 +20,7 @@ function CoinsView() {
           <img alt='coin' src='./assets/Morgan_1892_Obverse.jpg' />
           <img alt='coin' src='./assets/Morgan_1892_Reverse.jpg' />
           <p className='description'>
-            1892cc Morgan Silver Dollar
+            1892-CC Morgan Silver Dollar
             <br /> VF-20 $185
           </p>
           <br />
@@ -33,7 +33,7 @@ function CoinsView() {
           <img alt='coin' src='./assets/Morgan_1904_Reverse.jpg' />
           <p className='description'>
             1904-O Morgan Silver Dollar
-            <br /> MS-66 $400
+            <br /> MS-67 $44,500
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
@@ -57,7 +57,7 @@ function CoinsView() {
           <img alt='coin' src='./assets/Buffalo_1936_Obverse.jpg' />
           <img alt='coin' src='./assets/Buffalo_1936_Reverse.jpg' />
           <p className='description'>
-            1936 Buffalo Nickel <br /> F-12 $2.00
+            1936 Buffalo Nickel <br /> F-15 $1.00
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
@@ -65,9 +65,10 @@ function CoinsView() {
           </a>
         </div>
         <div className='coin-column'>
-          <img alt='coin' src='http://placehold.jp/150x150.png' />
+          <img alt='coin' src='./assets/Peace_1926_Obverse.jpg' />
+          <img alt='coin' src='./assets/Peace_1926_Reverse.jpg' />
           <p className='description'>
-            1919 Mercury Dime <br /> VF-20 $1.75
+            1926 Peace Dollar <br /> VF-20 $25
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
@@ -75,9 +76,10 @@ function CoinsView() {
           </a>
         </div>
         <div className='coin-column'>
-          <img alt='coin' src='http://placehold.jp/150x150.png' />
+          <img alt='coin' src='./assets/Morgan_1921_Obverse.jpg' />
+          <img alt='coin' src='./assets/Morgan_1921_Reverse.jpg' />
           <p className='description'>
-            1919 Mercury Dime <br /> VF-20 $1.75
+            1921 Morgan Dollar <br /> MS-60 $45
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
@@ -85,9 +87,10 @@ function CoinsView() {
           </a>
         </div>
         <div className='coin-column'>
-          <img alt='coin' src='http://placehold.jp/150x150.png' />
+          <img alt='coin' src='./assets/Eisenhower_1971_Obverse.jpg' />
+          <img alt='coin' src='./assets/Eisenhower_1971_Reverse.jpg' />
           <p className='description'>
-            1919 Mercury Dime <br /> VF-20 $1.75
+            1971 Eisenhower Dollar <br /> MS-65 $200
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
@@ -97,9 +100,16 @@ function CoinsView() {
       </div>
       <div className='coin-row-2'>
         <div className='coin-column'>
-          <img alt='coin' src='http://placehold.jp/150x150.png' />
+          <img
+            alt='coin'
+            src='./assets/Eisenhower_1971_DCAM_Proof_Obverse.jpg'
+          />
+          <img
+            alt='coin'
+            src='./assets/Eisenhower_1971_DCAM_Proof_Reverse.jpg'
+          />
           <p className='description'>
-            1919 Mercury Dime <br /> VF-20 $1.75
+            1971 Eisenhower Proof Dollar Deep Cameo <br /> PR-68 $2,500
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
@@ -107,9 +117,10 @@ function CoinsView() {
           </a>
         </div>
         <div className='coin-column'>
-          <img alt='coin' src='http://placehold.jp/150x150.png' />
+          <img alt='coin' src='./assets/Franklin_1960_Proof_Obverse.jpg' />
+          <img alt='coin' src='./assets/Franklin_1960_Proof_Reverse.jpg' />
           <p className='description'>
-            1919 Mercury Dime <br /> VF-20 $1.75
+            1960 Franklin Half Dollar <br /> PR-68 $150
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
@@ -117,9 +128,16 @@ function CoinsView() {
           </a>
         </div>
         <div className='coin-column'>
-          <img alt='coin' src='http://placehold.jp/150x150.png' />
+          <img
+            alt='coin'
+            src='./assets/JFK_1967_Silver_Half_Dollar_Obverse.jpg'
+          />
+          <img
+            alt='coin'
+            src='./assets/JFK_1967_Silver_Half_Dollar_Reverse.jpg'
+          />
           <p className='description'>
-            1919 Mercury Dime <br /> VF-20 $1.75
+            1967 Kennedy Half Dollar <br /> MS-66 $500
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
@@ -127,9 +145,9 @@ function CoinsView() {
           </a>
         </div>
         <div className='coin-column'>
-          <img alt='coin' src='http://placehold.jp/150x150.png' />
+          <img alt='coin' src='./assets/JFK_Half_Dollars.jpg' />
           <p className='description'>
-            1919 Mercury Dime <br /> VF-20 $1.75
+            2014 50th Anniversary Kennedy Half Dollars <br /> PR-70 $150
           </p>
           <br />
           <a className='purchase-link' href='/purchase-message'>
