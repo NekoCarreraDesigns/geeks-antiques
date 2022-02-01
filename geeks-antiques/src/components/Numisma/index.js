@@ -43,7 +43,9 @@ function Numisma() {
             <strong>VF-20</strong> standing for very fine, the coins are
             slightly less worn with some of the design visible. the next level
             is <strong>EF-40</strong> standing for extra fine these coins have
-            minimal wear to the designs and letters. The next level is{" "}
+            minimal wear to the designs and letters. The level after this on is{" "}
+            <strong>AU-50</strong> which stands for almost uncirculated, these
+            coins are very close to mint state. The next level is{" "}
             <strong>MS</strong> which stands for mint state, these coins are
             incredibly vivid with little marking, and clear designs, and
             letters. the final conditions coins can be in is <strong>PF</strong>{" "}
@@ -53,20 +55,22 @@ function Numisma() {
           <br />
           <li>
             Mint state coins can carry multiple grades starting with{" "}
-            <strong>63</strong> going all the way to <strong>68</strong> these
+            <strong>1</strong> going all the way to <strong>70</strong> these
             grades are determined by the amount of wear to the coin, or the
             slight scratches from being transported in mint bags, the less
             amount of wear the higher the number coins with a grade of{" "}
-            <strong>MS-68</strong> are said to be gem quality{" "}
+            <strong>MS-70</strong> are said to be gem quality. The most common
+            grades start from 63 and go to 68.
           </li>
           <br />
           <li>
-            Proof grade coins have two grade values <strong>PF-68</strong> to{" "}
-            <strong>PF-70</strong> coins that carry these grades are barely
-            touched or marked mean they were the last ones off the conveyor at
-            the mint. sometimes sold as sets in gold, and silver, proof coins
-            are very collectible, most commemorative coins are sold as proofs,
-            along with the coins that are minted regularly every year
+            Proof grade coins have two grade have the same numerical values of
+            mint state <strong>PF-1</strong> to <strong>PF-70</strong> coins
+            that carry these grades are barely touched or marked mean they were
+            the last ones off the conveyor at the mint. sometimes sold as sets
+            in gold, and silver, proof coins are very collectible, most
+            commemorative coins are sold as proofs, along with the coins that
+            are minted regularly every year
           </li>
           <br />
           <li>
