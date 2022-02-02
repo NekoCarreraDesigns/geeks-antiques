@@ -155,6 +155,51 @@ function CoinsView() {
           </a>
         </div>
       </div>
+      <div className='coin-row-3'>
+        <div className='coin-column'>
+          <img alt='coin' src='./assets/Liberty_2006_Obverse.jpg' />
+          <img alt='coin' src='./assets/Liberty_2006_Reverse.jpg' />
+          <p className='description'>
+            2006 Liberty Silver Dollar <br /> PR-70 $100
+          </p>
+          <br />
+          <a className='purchase-link' href='/purchase-message'>
+            Purchase
+          </a>
+        </div>
+        <div className='coin-column'>
+          <img alt='coin' src='./assets/Liberty_1889_Obverse.jpg' />
+          <p className='description'>
+            1889 Liberty Nickel <br /> VG-12 $1
+          </p>
+          <br />
+          <a className='purchase-link' href='/purchase-message'>
+            Purchase
+          </a>
+        </div>
+        <div className='coin-column'>
+          <img alt='coin' src='./assets/Eisenhower_1978_Obverse.jpg' />
+          <img alt='coin' src='./assets/Eisenhower_1978_Reverse.jpg' />
+          <p className='description'>
+            1978 Eisenhower Dollar <br /> PR-68 $25
+          </p>
+          <br />
+          <a className='purchase-link' href='/purchase-message'>
+            Purchase
+          </a>
+        </div>
+        <div className='coin-column'>
+          <img alt='coin' src='./assets/Eisenhower_1976_Obverse.jpg' />
+          <img alt='coin' src='./assets/Eisenhower_1976_Reverse.jpg' />
+          <p className='description'>
+            1976-S Eisenhower Dollar Bicentennial <br /> MS-67 $125
+          </p>
+          <br />
+          <a className='purchase-link' href='/purchase-message'>
+            Purchase
+          </a>
+        </div>
+      </div>
     </div>
   );
 }

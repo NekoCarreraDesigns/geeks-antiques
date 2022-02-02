@@ -1,6 +1,7 @@
 .coin-row,
 .coin-row-1,
-.coin-row-2 {
+.coin-row-2,
+.coin-row-3 {
   display: flex;
 }
 
