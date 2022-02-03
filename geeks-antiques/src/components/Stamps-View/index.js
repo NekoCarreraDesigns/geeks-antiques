@@ -80,8 +80,10 @@ function StampsView() {
         </div>
         <div className='stamp-column'>
           <img alt='stamp' src='http://placehold.jp/150x150.png' />
-          <p className='description'>1846 MNHOGXF/SU $1,000</p>
-          <br />
+          <p className='description'>
+            1846 MNHOGXF/SU $1,000
+            <br />
+          </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
           </a>
@@ -90,33 +92,40 @@ function StampsView() {
       <div className='stamp-row-2'>
         <div className='stamp-column'>
           <img alt='stamp' src='http://placehold.jp/150x150.png' />
-          <p className='description'>1846 MNHOGXF/SU $1,000</p>
-          <br />
+          <p className='description'>
+            1846 MNHOGXF/SU $1,000
+            <br />
+          </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
           </a>
         </div>
         <div className='stamp-column'>
           <img alt='stamp' src='http://placehold.jp/150x150.png' />
-          <p className='description'>1846 MNHOGXF/SU $1,000</p>
-          <br />
+          <p className='description'>
+            1846 MNHOGXF/SU $1,000\
+            <br />
+          </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
           </a>
         </div>
         <div className='stamp-column'>
           <img alt='stamp' src='http://placehold.jp/150x150.png' />
-          <p className='description'>1846 MNHOGXF/SU $1,000</p>
-          <br />
+          <p className='description'>
+            1846 MNHOGXF/SU $1,000
+            <br />
+          </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
           </a>
         </div>
-
         <div className='stamp-column'>
           <img alt='stamp' src='http://placehold.jp/150x150.png' />
-          <p className='description'>1846 MNHOGXF/SU $1,000</p>
-          <br />
+          <p className='description'>
+            1846 MNHOGXF/SU $1,000
+            <br />
+          </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
           </a>
