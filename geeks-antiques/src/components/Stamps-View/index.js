@@ -79,10 +79,10 @@ function StampsView() {
           </a>
         </div>
         <div className='stamp-column'>
-          <img alt='stamp' src='http://placehold.jp/150x150.png' />
+          <img alt='stamp' src='./assets/1884_Russian_Coat_of_Arms_3.5.jpg' />
           <p className='description'>
-            1846 MNHOGXF/SU $1,000
-            <br />
+            1884 Russian coat of arms 3.5 kopeks
+            <br /> MNHSUOG $90,000
           </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
@@ -91,40 +91,40 @@ function StampsView() {
       </div>
       <div className='stamp-row-2'>
         <div className='stamp-column'>
-          <img alt='stamp' src='http://placehold.jp/150x150.png' />
+          <img alt='stamp' src='./assets/1884_Russian_Coat_of_Arms_7.jpg' />
           <p className='description'>
-            1846 MNHOGXF/SU $1,000
-            <br />
+            1884 Russian coat of arms 7 kopeks
+            <br /> MNHSUOG $36,000
           </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
           </a>
         </div>
         <div className='stamp-column'>
-          <img alt='stamp' src='http://placehold.jp/150x150.png' />
+          <img alt='stamp' src='./assets/1889_Coat_of_Arms_20.jpg' />
           <p className='description'>
-            1846 MNHOGXF/SU $1,000\
-            <br />
+            1889 Russian coat of arms 20 kopeks
+            <br /> MNHXFOG $450
           </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
           </a>
         </div>
         <div className='stamp-column'>
-          <img alt='stamp' src='http://placehold.jp/150x150.png' />
+          <img alt='stamp' src='./assets/1889_Coat_of_Arms.jpg' />
           <p className='description'>
-            1846 MNHOGXF/SU $1,000
-            <br />
+            1889 Russian coat of arms 50 kopeks
+            <br /> MNHXFOG $450
           </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
           </a>
         </div>
         <div className='stamp-column'>
-          <img alt='stamp' src='http://placehold.jp/150x150.png' />
+          <img alt='stamp' src='./assets/1908_Coat_of_Arms.jpg' />
           <p className='description'>
-            1846 MNHOGXF/SU $1,000
-            <br />
+            1908 Russian coat of arms 10 kopeks
+            <br /> MNHSUOG $3,000
           </p>
           <a className='purchase-link' href='/purchase-message'>
             Purchase
