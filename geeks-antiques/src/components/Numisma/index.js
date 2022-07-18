@@ -9,19 +9,19 @@ function Numisma() {
         <p className='numisma-paragraph'>
           Numisma is the latin word for coin. Numisma has been practiced for
           thousands of years, some of the oldest coins dating back to 600 BCE
-          with the electrum a coin made from gold, and silver, minted by the
+          with the Electrum a coin made from gold, and silver, minted by the
           kingdom of Lydia which is in the modern country of Turkey. Coins are
           minted using a die process in which a metal planchet is struck with an
           engraved design.
         </p>
         <p className='numisma-paragraph'>
           Numismatists or coin collectors to the laymen, are historians as some
-          coins like the previously mentioned electrum, are thousands of years
-          old. Most modern currency hasn't been around that long the united
-          states started minting coins in 1795, with a few countries getting a
+          coins like the previously mentioned Electrum, are thousands of years
+          old. Most modern currency hasn't been around that long, the United
+          States started minting coins in 1795, with a few countries getting a
           head start in the early 1700's. In the early days of minting coins
-          were made from precious metals, such as gold, silver, and copper. In
-          modern times theses metals are rarely used. most coins being of the
+          they were made from precious metals, such as gold, silver, and copper.
+          In modern times theses metals are rarely used. most coins being of the
           nickel plated zinc variety{" "}
         </p>
       </section>
@@ -53,9 +53,10 @@ function Numisma() {
             coins are very close to mint state. The next level is{" "}
             <strong>MS-60</strong> which stands for mint state, these coins are
             incredibly vivid with little marking, and clear designs, and
-            letters. the final conditions coins can be in is <strong>PF</strong>{" "}
-            or Proof state these coins are straight up unmarked, fresh off the
-            die coins, with deep contrasts and no marking or wear
+            letters. the final conditions coins can be in is{" "}
+            <strong>PF/PR</strong> or Proof state these coins are straight up
+            unmarked, fresh off the die coins, with deep contrasts and no
+            marking or wear
           </li>
           <br />
           <li>
@@ -115,9 +116,9 @@ function Numisma() {
             value.
             <br />
             1. 1913-D Nickel, raised mound,<strong>VF-20</strong> $200 <br />
-            2. 1970-S Eisenhower Dollar, type 1, <strong>PF-70</strong> $700
+            2. 1971-S Eisenhower Dollar, type 1, <strong>PF-70</strong> $700
             <br />
-            3. 1892cc Morgan Silver Dollar, <strong>VF-20</strong> $200
+            3. 1892-CC Morgan Silver Dollar, <strong>VF-20</strong> $200
             <br />
             4. 1989-D Penny, copper planchet, <strong>MS-68</strong> $3000
           </li>
