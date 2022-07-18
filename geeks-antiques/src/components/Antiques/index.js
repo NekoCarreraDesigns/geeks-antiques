@@ -32,7 +32,7 @@ function Antiques() {
         less rare, still valuable because of the metal that its made from, but
         as far as being unique it's not, because there are 4 million of them.
         the number of 1901 pieces goes down significantly depending on who kept
-        them, or if people melted them down the 400,000 could end up being
+        them, or if people melted them down, the 400,000 could end up being
         100,000 in 2022 or even lower
       </p>
       <a className='antiques-view-link' href='/antiques-view'>
