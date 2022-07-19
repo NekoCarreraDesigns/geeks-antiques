@@ -169,6 +169,7 @@ function CoinsView() {
         </div>
         <div className='coin-column'>
           <img alt='coin' src='./assets/Liberty_1889_Obverse.jpg' />
+          <img alt='coin' src='./assets/Liberty_1889_Reverse.jpg' />
           <p className='description'>
             1889 Liberty Nickel <br /> VG-12 $1
           </p>
